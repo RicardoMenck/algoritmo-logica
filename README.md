@@ -1,2 +1,2 @@
 # algoritmo-logica
-Estudos de Algoritmos e Lógica de Programação
+## Estudos de Algoritmos e Lógica de Programação
